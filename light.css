@@ -1,0 +1,40 @@
+.page.theme_light {
+  --background-color: #FFF1F7;
+  --font-color: #353430;
+  --border-color: rgba(50, 49, 45, 0.4);
+  --accent-color: #353430;
+  --background-theme: url('../images/cover-image-light.png');
+  --h1-color: #FFC2E6;
+  --text-shadow: #FF0070;
+  --back-color: #FF8DCB;
+  --rec-display: none;
+  --text-link: #FF8DCB;
+  --link-color: #353430;
+  --normal-font-weight: 400;
+  --line-height-regular: 83px;
+  --is-light: hidden;
+  --regular-font-size: 18px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-color: #FFF1F7;
+    --font-color: #353430;
+    --border-color: rgba(50, 49, 45, 0.4);
+    --accent-color: #353430;
+    --background-theme: url('../images/cover-image-light.png');
+    --h1-color: #FFC2E6;
+    --text-shadow: #FF0070;
+    --back-color: #FF8DCB;
+    --rec-display: none;
+    --text-link: #FF8DCB;
+    --link-color: #353430;
+    --normal-font-weight: 400;
+    --line-height-regular: 83px;
+    --is-light: hidden;
+    --regular-font-size: 18px;
+  }
+}
+
+
+

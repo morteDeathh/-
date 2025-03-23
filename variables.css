@@ -1,0 +1,17 @@
+:root {
+  --background-color: #000028;
+  --font-color: #FF0070;
+  --border-color: rgba(255, 0, 112, 0.4);
+  --accent-color: #FF0070;
+  --background-theme: url('../images/cover-image-dark.png');
+  --h1-color: #DB00FF;
+  --text-shadow: #FF0070;
+  --back-color: #FF0070;
+  --rec-display: block;
+  --text-link: #FF0070;
+  --link-color: #F1B2CE;
+  --normal-font-weight: 400;
+  --line-height-regular: 83px;
+  --is-light: visible;
+  --regular-font-size: 18px;
+}
